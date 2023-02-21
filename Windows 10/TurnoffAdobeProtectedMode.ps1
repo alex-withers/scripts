@@ -1,0 +1,1 @@
+Set-ItemProperty -Path 'HKCU:\Software\Adobe\Acrobat Reader\DC\Privileged' -Name 'bProtectedMode' -Value '0'

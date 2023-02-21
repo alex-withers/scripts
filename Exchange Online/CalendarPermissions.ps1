@@ -1,0 +1,2 @@
+$calendars = Get-Mailbox -RecipientTypeDetails UserMailbox | Get-MailboxFolderStatistics | ? {$_.FolderType -eq "Calendar"} | select @{n="Identity"; e={$_.Identity.Replace("\",":\")}}
+$calendars | % {Set-MailboxFolderPermission -Identity $_.Identity -User Default -AccessRights Reviewer}

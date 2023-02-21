@@ -1,0 +1,1 @@
+$env:userprofile\appdata\Local\Microsoft\OneDrive\18.151.0729.0013\OneDriveSetup.exe /uninstall

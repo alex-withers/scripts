@@ -1,0 +1,2 @@
+firstname,middleInitial,lastname,username,email,streetaddress,city,zipcode,state,country,description,office,department,password,telephone,jobtitle,company,ou
+Rick,M,Sanchez,rsanchez,rsanchez@npgdom.com,1234 Grove St,Seattle,98101,WA,United States,,C137,Research,Ch@ng3Me!,206-876-5309,Interdimensional Traveler,NetworkProGuide,"CN=Users,DC=ad,DC=npgdom,DC=com"

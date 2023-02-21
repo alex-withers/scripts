@@ -1,0 +1,1 @@
+﻿New-ItemProperty -Path "HKCU:\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced" -Name "ShowCortanaButton" -Value "0" -PropertyType DWORD -Force
