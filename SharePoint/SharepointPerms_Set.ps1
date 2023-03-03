@@ -2,7 +2,7 @@
 $folderRoot = "Shared Documents/"
 #$folderRoot = "Shared Documents/MDS Technologies/"
 
-$customers = Import-Csv "C:\ADT\Github\adt-alexw-scripts\SharePoint\adtclients.csv"
+$customers = Import-Csv "C:\ADT\Github\scripts\SharePoint\adtclients.csv"
 #$customers = Import-Csv "E:\Github\adt-alexw-scripts\SharePoint\mdscustomers.csv"
 
 $folders = @(
