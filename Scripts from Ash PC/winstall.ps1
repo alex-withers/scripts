@@ -1,1 +1,0 @@
-winget install Microsoft.Teams  ; winget install SlackTechnologies.Slack  ; winget install Microsoft.WindowsTerminal  ; winget install Notepad++.Notepad++  ; winget install Spotify.Spotify  ; winget install Amazon.Music  ; winget install OpenVPNTechnologies.OpenVPN 

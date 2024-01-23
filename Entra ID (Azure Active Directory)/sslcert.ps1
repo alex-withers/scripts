@@ -1,5 +1,5 @@
 # Define your own DNS name used by your managed domain
-$dnsName="bristololdvic.org.uk"
+$dnsName=""
 
 # Get the current date to set a one-year expiration
 $lifetime=Get-Date
