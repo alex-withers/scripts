@@ -1,0 +1,1 @@
+﻿New-ItemProperty -Path "HKLM\SOFTWARE\Policies\Adobe\Acrobat Reader\DC\FeatureLockDown\" -Name "bEnableFlash" -Value "0" -PropertyType DWORD -Force
